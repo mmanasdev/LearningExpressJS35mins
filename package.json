@@ -1,0 +1,27 @@
+{
+  "name": "learningexpressjs35mins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmanasdev/LearningExpressJS35mins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmanasdev/LearningExpressJS35mins/issues"
+  },
+  "homepage": "https://github.com/mmanasdev/LearningExpressJS35mins#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
